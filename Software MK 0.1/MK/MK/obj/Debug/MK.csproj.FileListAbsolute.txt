@@ -1,0 +1,13 @@
+C:\Users\RodrigoFelipe\Documents\Mark1\Software MK 0.1\MK\MK\bin\Debug\MK.exe.config
+C:\Users\RodrigoFelipe\Documents\Mark1\Software MK 0.1\MK\MK\bin\Debug\MK.exe
+C:\Users\RodrigoFelipe\Documents\Mark1\Software MK 0.1\MK\MK\bin\Debug\MK.pdb
+C:\Users\RodrigoFelipe\Documents\Mark1\Software MK 0.1\MK\MK\obj\Debug\MK.csprojResolveAssemblyReference.cache
+C:\Users\RodrigoFelipe\Documents\Mark1\Software MK 0.1\MK\MK\obj\Debug\MK.Form1.resources
+C:\Users\RodrigoFelipe\Documents\Mark1\Software MK 0.1\MK\MK\obj\Debug\MK.Properties.Resources.resources
+C:\Users\RodrigoFelipe\Documents\Mark1\Software MK 0.1\MK\MK\obj\Debug\MK.csproj.GenerateResource.Cache
+C:\Users\RodrigoFelipe\Documents\Mark1\Software MK 0.1\MK\MK\obj\Debug\MK.exe
+C:\Users\RodrigoFelipe\Documents\Mark1\Software MK 0.1\MK\MK\obj\Debug\MK.pdb
+C:\Users\RodrigoFelipe\Documents\Mark1\Software MK 0.1\MK\MK\obj\Debug\MK.Botao.BotaoCamera.resources
+C:\Users\RodrigoFelipe\Documents\Mark1\Software MK 0.1\MK\MK\obj\Debug\MK.Botao.BotaoCliente.resources
+C:\Users\RodrigoFelipe\Documents\Mark1\Software MK 0.1\MK\MK\obj\Debug\MK.Botao.BotaoAdicionarCliente.resources
+C:\Users\RodrigoFelipe\Documents\Mark1\Software MK 0.1\MK\MK\obj\Debug\MK.Botao.BotaoCadastrarCamera.resources
